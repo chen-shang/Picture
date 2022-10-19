@@ -1,0 +1,11 @@
+{
+  "Code": 0,
+  "Msg": "应用内更新还没有实现,请直接点击x然后进行使用",
+  "UpdateStatus": 1,
+  "VersionCode": 3,
+  "VersionName": "1.0.2",
+  "ModifyContent": "1、应用内更新已经实现",
+  "DownloadUrl": "https://raw.githubusercontent.com/chen-shang/Picture/master/relase_1.0_202210192054.apk",
+  "ApkSize": 25480,
+  "ApkMd5": "184e18afb8f9d7daff1b72fd1b0ceffe"
+}
